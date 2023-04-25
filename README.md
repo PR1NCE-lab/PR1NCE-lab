@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **myproacount64@gmail.com**
 
-- ⚡ Fun fact **I think I am a good learner.**
+
 
 <br/>
 <br/>
