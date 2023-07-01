@@ -22,7 +22,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pr1nce-lab" alt="pr1nce-lab" /></a> </p>
 
 
-<h3 align="left">MY PROFILES ->:</h3>
+<h3 align="left">MY PROFILES :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prince nahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince nahar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prince jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prince jain" height="30" width="40" /></a>
